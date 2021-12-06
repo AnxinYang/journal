@@ -1,2 +1,3 @@
-My development journal
+# My development journal
+
 See wiki page
